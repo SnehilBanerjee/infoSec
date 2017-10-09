@@ -1,5 +1,6 @@
 # infoSec
 
+```
 <?php
 
 function generateRandomString($length = 10) {
@@ -13,3 +14,4 @@ function generateRandomString($length = 10) {
 }
 
 $randomString = generateRandomString(5);
+```
